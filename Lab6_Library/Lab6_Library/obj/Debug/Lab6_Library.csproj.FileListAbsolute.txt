@@ -1,0 +1,33 @@
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe.config
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.pdb
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csprojResolveAssemblyReference.cache
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Properties.Resources.resources
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csproj.GenerateResource.Cache
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.exe
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.pdb
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.libraryGUI.resources
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe.config
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.exe
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.pdb
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.pdb
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csprojResolveAssemblyReference.cache
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.libraryGUI.resources
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Properties.Resources.resources
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csproj.GenerateResource.Cache
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\6\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe.config
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.exe
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.pdb
+C:\Users\Kallum Chumber\Desktop\resits\algorithms &data structres\6\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe.config
+C:\Users\Kallum Chumber\Desktop\resits\algorithms &data structres\6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.exe
+C:\Users\Kallum Chumber\Desktop\resits\algorithms &data structres\6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.pdb
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\6\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe.config
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.exe
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.pdb
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\6\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\6\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.pdb
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csprojResolveAssemblyReference.cache
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.libraryGUI.resources
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Properties.Resources.resources
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\6\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csproj.GenerateResource.Cache
